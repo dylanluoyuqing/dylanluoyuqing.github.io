@@ -22,7 +22,7 @@ repository               : "dylanluoyuqing/dylanluoyuqing.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "output.png"
+  avatar           : "output.jpg"
   name             : "Yuqing Luo / Dylan Luo"
   pronouns         : # example: "she/her"  
   bio              : "Hi there."
